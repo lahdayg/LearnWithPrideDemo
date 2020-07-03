@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cpbOdjz0BoYX+hylmjCcBXqEZS1Hcfk9lbmlEb+ffAujm0XeVUReTzC8yv62WBK4DLI9Zwrt6wYS/pq+MtbB2g==",
+  "dgSpecHash": "9hS7g7f8SLZk5Fyc1pxQy+M8N/QHD5GRZNMYzNHTv09HKDIr4AJpzz9piTPpfkwglvFE/V+m0bE6/eDoQJgA/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Grandma\\source\\repos\\LearnWithPrideProject\\LearnWithPrideProject\\LearnWithPrideProject.csproj",
+  "projectFilePath": "C:\\Users\\Grandma\\source\\repos\\Training\\LearnWithPrideDemo\\LearnWithPrideProject\\LearnWithPrideProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Grandma\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\Grandma\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",

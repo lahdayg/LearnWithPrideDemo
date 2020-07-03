@@ -6593,11 +6593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\LearnWithPrideProject\\LearnWithPrideProject\\LearnWithPrideProject.csproj",
+      "projectUniqueName": "C:\\Users\\Grandma\\source\\repos\\Training\\LearnWithPrideDemo\\LearnWithPrideProject\\LearnWithPrideProject.csproj",
       "projectName": "LearnWithPrideProject",
-      "projectPath": "C:\\Users\\Grandma\\source\\repos\\LearnWithPrideProject\\LearnWithPrideProject\\LearnWithPrideProject.csproj",
+      "projectPath": "C:\\Users\\Grandma\\source\\repos\\Training\\LearnWithPrideDemo\\LearnWithPrideProject\\LearnWithPrideProject.csproj",
       "packagesPath": "C:\\Users\\Grandma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grandma\\source\\repos\\LearnWithPrideProject\\LearnWithPrideProject\\obj\\",
+      "outputPath": "C:\\Users\\Grandma\\source\\repos\\Training\\LearnWithPrideDemo\\LearnWithPrideProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
