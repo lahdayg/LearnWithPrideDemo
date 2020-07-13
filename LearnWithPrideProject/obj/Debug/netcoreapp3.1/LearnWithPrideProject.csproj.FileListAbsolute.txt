@@ -107,11 +107,11 @@ C:\Users\Grandma\source\repos\LearnWithPrideProject\LearnWithPrideProject\obj\De
 C:\Users\Grandma\source\repos\LearnWithPrideProject\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.dll
 C:\Users\Grandma\source\repos\LearnWithPrideProject\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.pdb
 C:\Users\Grandma\source\repos\LearnWithPrideProject\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.genruntimeconfig.cache
+C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\nunit.engine.dll
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
-C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\LearnWithPrideProject.deps.json
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\LearnWithPrideProject.runtimeconfig.json
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\LearnWithPrideProject.runtimeconfig.dev.json
@@ -208,7 +208,6 @@ C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.csprojAssemblyReference.cache
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.AssemblyInfoInputs.cache
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.AssemblyInfo.cs
 C:\Users\Grandma\source\repos\Training\LearnWithPrideDemo\LearnWithPrideProject\obj\Debug\netcoreapp3.1\LearnWithPrideProject.csproj.CoreCompileInputs.cache

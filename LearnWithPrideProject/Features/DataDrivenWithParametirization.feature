@@ -7,7 +7,7 @@
 Scenario Outline: Data Driven With Examples
 	Given I navigate to "https://angularjs.realworld.io/#/register"
 	When I enter Username text "learnwithpride"
-	And I enter email test "learnwithpride@demo.com"
+	And I enter email test "learnwithpride"
 	And I enter password text "PasswordSecure"
-	#And I click on Sign up button
-	#Then I am logged in with my username displayed
+	And I click on Sign up button
+	Then I am logged in with my username displayed

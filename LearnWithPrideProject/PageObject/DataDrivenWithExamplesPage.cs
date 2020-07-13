@@ -6,10 +6,10 @@ using System.Text;
 
 namespace LearnWithPrideProject.PageObject
 {
-    class DataDrivenWithParameterPage
+    class DataDrivenWithExamplesPage
     {
 
-        public DataDrivenWithParameterPage()
+        public DataDrivenWithExamplesPage()
         {
             driver = Hooks1.driver;
         }
@@ -31,29 +31,29 @@ namespace LearnWithPrideProject.PageObject
 
 
 
-        public void EnterUsername(string username)
+        public void EnterUsername(string Username)
         {
-            //Random randomGenerator = new Random();
-            //int randomInt = randomGenerator.Next(1000);
-            //usernameInput.SendKeys("username" + randomInt);
-            usernameInput.SendKeys(username);
-
-            
-        }
-
-        public void EnterEmail(string email)
-        {
-             Random randomGenerator = new Random();
+            Random randomGenerator = new Random();
             int randomInt = randomGenerator.Next(1000);
-             emailInput.SendKeys(email + randomInt + "@demo.com");
-           // emailInput.SendKeys(email);
+            usernameInput.SendKeys(Username + randomInt);
+            //usernameInput.SendKeys(Username);
 
-            
+
         }
 
-        public void EnterPassword(string password)
+        public void EnterEmail(string Email)
         {
-            passwordInput.SendKeys(password);
+            Random randomGenerator = new Random();
+            int randomInt = randomGenerator.Next(1000);
+            emailInput.SendKeys(Email + randomInt + "@demo.com");
+             //emailInput.SendKeys(Email);
+
+
+        }
+
+        public void EnterPassword(string Password)
+        {
+            passwordInput.SendKeys(Password);
         }
 
         public void ClickOnSignUpButton()
@@ -75,7 +75,6 @@ namespace LearnWithPrideProject.PageObject
 
     }
 }
-
 
 
 
