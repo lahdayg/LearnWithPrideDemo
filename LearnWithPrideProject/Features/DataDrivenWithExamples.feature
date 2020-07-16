@@ -10,7 +10,7 @@ Scenario Outline: Data Driven With Examples
 	And I enter Email text "<Email>"
 	And I enter Password text "<Password>"
 	And I click on Sign up button
-	Then I am logged in with my username displayed
+	Then I am logged in with my username displayed 
 
 
 	Examples: 

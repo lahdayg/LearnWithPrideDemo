@@ -1,5 +1,6 @@
 ﻿using LearnWithPrideProject.Utilities;
 using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -12,7 +13,18 @@ namespace LearnWithPrideProject.PageObject
         public DataDrivenWithExamplesPage()
         {
             driver = Hooks1.driver;
+            //Implicit Wait
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
+
+            // Fluent Wait
+            DefaultWait<IWebDriver> fluentWait = new DefaultWait<IWebDriver>(driver);
+            fluentWait.Timeout = TimeSpan.FromSeconds(5);
+            fluentWait.PollingInterval = TimeSpan.FromMilliseconds(250);
+
+
         }
+
+        
 
         IWebDriver driver;
 
