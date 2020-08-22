@@ -23,6 +23,7 @@ namespace LearnWithPrideProject.StepDefinition
         public void GivenINavigateToAmazonWebsite()
         {
             registrationPage.NavigateToWebsite();
+
         }
         
         [When(@"I click on Hello Sign in")]
@@ -74,5 +75,55 @@ namespace LearnWithPrideProject.StepDefinition
             Thread.Sleep(5000);
             Assert.That(registrationPage.IsUserLogInDisplayed);
         }
+
+        [Given(@"I click on Sign in")]
+        public void GivenIClickOnSignIn()
+        {
+            registrationPage.ClickOnSignIn();
+        }
+
+        [Given(@"I enter my email address ""(.*)""")]
+        public void GivenIEnterMyEmailAddress(string email)
+        {
+            registrationPage.EnterEmailAddress(email);
+        }
+
+        [Given(@"I enter my password ""(.*)""")]
+        public void GivenIEnterMyPassword(string password)
+        {
+            registrationPage.EnterPasswordText(password);
+        }
+
+        [When(@"I click on Sign in")]
+        public void WhenIClickOnSignIn()
+        {
+            registrationPage.ClickOnSignInButton();
+        }
+
+        [When(@"I click on post item")]
+        public void WhenIClickOnPostItem()
+        {
+            registrationPage.ClickOnPostItem();
+        }
+
+        [When(@"I enter item description")]
+        public void WhenIEnterItemDescription()
+        {
+            registrationPage.EnterItemDescription();
+        }
+
+        [When(@"I enter item name")]
+        public void WhenIEnterItemName()
+        {
+            registrationPage.EnterItemName();
+        }
+
+        [When(@"I click on choose file")]
+        public void WhenIClickOnChooseFile()
+        {
+            registrationPage.ChooseFile();
+        }
+
+
     }
 }

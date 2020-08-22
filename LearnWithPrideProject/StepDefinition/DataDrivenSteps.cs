@@ -36,6 +36,7 @@ namespace LearnWithPrideProject.StepDefinition
         public void WhenIEnterUsernameText(string username)
         {
             dataDrivenWithParameterPage.EnterUsername(username);
+
         }
         
         [When(@"I enter email test ""(.*)""")]
